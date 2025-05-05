@@ -1,2 +1,4 @@
+[user]
+  email = "henrycke.bozza@parallaxautomacao.com.br"
 [core]
   sshCommand = ssh -i ~/.ssh/work

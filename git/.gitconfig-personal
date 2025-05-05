@@ -1,2 +1,4 @@
+[user]
+  email = "0Kerryhen.pm.me"
 [core]
   sshCommand = ssh -i ~/.ssh/personal
