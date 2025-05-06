@@ -1,5 +1,5 @@
 #!/bin/bash
 for dir in */
 do 
-	stow ${dir%/}; 
+	stow -R ${dir%/} --adopt; 
 done
